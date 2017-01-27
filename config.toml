@@ -1,0 +1,118 @@
+baseurl = "http://hsigrist.github.io"
+title = "hsigrist"
+copyright = "&copy; 1999-2017 Hans Sigrist"
+theme = "academic"
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+disqusShortname = "hsigrist"
+googleAnalytics = ""
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+[blackfriday]
+  hrefTargetBlank = true
+[params]
+  name = "Hans Sigrist"
+  role = "Prof., Lic. & Mag. Matemática"
+  organization = "LMLA"
+  avatar = "portrait.png"
+  email = "hsigrist@gmail.com"
+  address = "Liceo Mixto Los Andes, San Rafael 1450, Los Andes"
+  office_hours = "Martes 10:00AM - 11:30AM"
+  keybase = ""
+  date_format = "Mon, Jan 2, 2006"
+  math = true
+  highlight = true
+  highlight_languages = []
+  sharing = true
+  custom_css = []
+  custom_js  = []
+
+   publication_types = [
+    'SinCategoria',  # 0
+    'Conferencias',  # 1
+    'Journal',  # 2
+    'Ensayo en Progreso',  # 3
+    'Reporte Tecnico',  # 4
+    'Libro',  # 5
+    'Book chapter'  # 6
+  ]
+
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:hsigrist@gmail.com"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/hsigrist"
+
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/hsigrist"
+
+  [[params.social]]
+    icon = "youtube"
+    icon_pack = "fa"
+    link = "//www.youtube.com/user/hsigrist"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//cl.linkedin.com/in/hsigrist"
+
+  [[params.social]]
+    icon = "soundcloud"
+    icon_pack = "fa"
+    link = "//soundcloud.com/hsigrist"
+
+
+
+[[menu.main]]
+  name = "Blog"
+  url = "#posts"
+  weight = 1
+
+[[menu.main]]
+  name = "Publicaciones"
+  url = "#publications"
+  weight = 2
+
+[[menu.main]]
+  name = "Charlas"
+  url = "#talks"
+  weight = 3
+
+[[menu.main]]
+  name = "Proyectos"
+  url = "#projects"
+  weight = 4
+
+[[menu.main]]
+  name = "Docencia"
+  url = "#teaching"
+  weight = 5
+
+[[menu.main]]
+  name = "Bio"
+  url = "#about"
+  weight = 6
+
+[[menu.main]]
+  name = "Contacto"
+  url = "#contact"
+  weight = 7
+
+[taxonomies]
+  tag = "tags"
+  category = "categorias"
+  publication_type = "publication_types"
+
+[languages.en]
+  languageCode = "en-us"
