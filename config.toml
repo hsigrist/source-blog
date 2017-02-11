@@ -1,4 +1,4 @@
-baseurl = "http://hsigrist.github.io"
+baseurl = "https://hsigrist.github.io"
 title = "hsigrist"
 copyright = "&copy; 1999-2017 Hans Sigrist"
 theme = "academic"
@@ -8,6 +8,10 @@ disqusShortname = "hsigrist"
 googleAnalytics = "UA-47163105-1"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
+
+[author]
+    name = "Hans Sigrist"
+
 [blackfriday]
   hrefTargetBlank = true
 [params]
@@ -18,7 +22,6 @@ defaultContentLanguageInSubdir = false
   email = "hsigrist@gmail.com"
   address = "Liceo Mixto Los Andes, San Rafael 1450, Los Andes"
   office_hours = "Martes 10:00AM - 11:30AM"
-  keybase = ""
   date_format = "Mon, Jan 2, 2006"
   math = true
   highlight = true
