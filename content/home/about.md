@@ -19,7 +19,7 @@ weight = 6
 	"Emacs & org-mode",
 	"Calistenia",
 	"Budismo",
-	"Veganismo"
+	"Paleo"
   ]
 
 # List your qualifications (such as academic degrees).
