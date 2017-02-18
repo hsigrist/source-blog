@@ -56,6 +56,6 @@ Hola, soy Hans Sigrist, docente con sólidas raíces en la creatividad y la inno
 
 Si está interesado en reclutamiento laboral y/o revisión de perfil profesional, puede hacerlo vía:
 
-- Versión pdf descargable, en el enlace <i class="fa fa-link"></i> [Hans Sigrist - Currículum](https://db.tt/WGE9Sv3ToW).
+- Versión pdf descargable, en el enlace <i class="fa fa-link"></i> [Hans Sigrist - Currículum](https://db.tt/F0CTQMdIwe).
 - Una revisión mas exhaustiva en mi <i class="fa fa-link"></i> [perfil LinkedIn](http://cl.linkedin.com/in/hsigrist).
 - O bien, revisar las novedades del blog, mis publicaciones y cátedras.
