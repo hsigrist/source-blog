@@ -7,4 +7,3 @@ math = false
 image = ""
 
 +++
-	lorem
