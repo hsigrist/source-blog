@@ -2,7 +2,7 @@
 abstract = "Dimensionar el impacto de la evaluación de los aprendizajes en el proceso formativo de los y las estudiantes."
 abstract_short = ""
 authors = ["Hans Sigrist"]
-date = "Sat Apr 15 17:48:29 2017"
+date = "2017-04-10"
 image = ""
 image_preview = ""
 math = true

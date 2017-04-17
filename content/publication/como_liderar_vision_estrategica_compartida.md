@@ -2,7 +2,7 @@
 abstract = "Construir o actualizar una visión estratégica compartida del establecimiento mediante la comunicación efectiva de los objetivos y proyectos institucionales."
 abstract_short = ""
 authors = ["Hans Sigrist"]
-date = "Sat Apr 15 17:48:29 2017"
+date = "2016-11-10"
 image = ""
 image_preview = ""
 math = true
