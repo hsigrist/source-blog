@@ -37,7 +37,7 @@ defaultContentLanguageInSubdir = false
     'Ensayo en Progreso',  # 3
     'Reporte Tecnico',  # 4
     'Libro',  # 5
-    'Book chapter'  # 6
+    'Formación Contínua'  # 6
   ]
 
   [[params.social]]
