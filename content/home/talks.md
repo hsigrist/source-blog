@@ -5,7 +5,7 @@ date = "2016-04-20T00:00:00"
 draft = false
 
 title = "Recientes & próximas Charlas"
-subtitle = "Presentaciones Beamer, s5 & Reveal.js. Además videos vía OneNote + Wacom Draw anotadas, Anymeeting, screencast, post-producción FCPX, GIF, podcast via soundcloud & transmisiones en vivo más contenido original (no listado) en YouTube."
+subtitle = "Presentaciones Beamer, s5 & Reveal.js. Dzslides vía Asciidoc. Además videos vía OneNote + Wacom Draw anotadas, Anymeeting, screencast, post-producción FCPX, GIF, podcast via soundcloud & transmisiones en vivo más contenido original (no listado) en YouTube."
 widget = "talks"
 
 # Order that this section will appear in.
